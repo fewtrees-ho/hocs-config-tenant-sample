@@ -1,0 +1,1 @@
+# hocs-config-tenant-sample
